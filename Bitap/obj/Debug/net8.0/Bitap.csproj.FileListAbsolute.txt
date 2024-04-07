@@ -1,0 +1,14 @@
+C:\Users\victo\RiderProjects\Bitap\Bitap\obj\Debug\net8.0\Bitap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\RiderProjects\Bitap\Bitap\obj\Debug\net8.0\Bitap.AssemblyInfoInputs.cache
+C:\Users\victo\RiderProjects\Bitap\Bitap\obj\Debug\net8.0\Bitap.AssemblyInfo.cs
+C:\Users\victo\RiderProjects\Bitap\Bitap\obj\Debug\net8.0\Bitap.csproj.CoreCompileInputs.cache
+C:\Users\victo\RiderProjects\Bitap\Bitap\bin\Debug\net8.0\Bitap.exe
+C:\Users\victo\RiderProjects\Bitap\Bitap\bin\Debug\net8.0\Bitap.deps.json
+C:\Users\victo\RiderProjects\Bitap\Bitap\bin\Debug\net8.0\Bitap.runtimeconfig.json
+C:\Users\victo\RiderProjects\Bitap\Bitap\bin\Debug\net8.0\Bitap.dll
+C:\Users\victo\RiderProjects\Bitap\Bitap\bin\Debug\net8.0\Bitap.pdb
+C:\Users\victo\RiderProjects\Bitap\Bitap\obj\Debug\net8.0\Bitap.dll
+C:\Users\victo\RiderProjects\Bitap\Bitap\obj\Debug\net8.0\refint\Bitap.dll
+C:\Users\victo\RiderProjects\Bitap\Bitap\obj\Debug\net8.0\Bitap.pdb
+C:\Users\victo\RiderProjects\Bitap\Bitap\obj\Debug\net8.0\Bitap.genruntimeconfig.cache
+C:\Users\victo\RiderProjects\Bitap\Bitap\obj\Debug\net8.0\ref\Bitap.dll
